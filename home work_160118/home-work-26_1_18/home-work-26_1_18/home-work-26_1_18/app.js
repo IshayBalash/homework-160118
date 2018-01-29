@@ -8,5 +8,5 @@ product._experion_date.day = 15;
 product._experion_date.hour = 22;
 product._experion_date.minute = 45;
 product._experion_date.second = 45;
-product.toString();
+document.write("" + product);
 //# sourceMappingURL=app.js.map
